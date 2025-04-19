@@ -14,7 +14,7 @@
 Hi there! I'm **Shivaprakash**, a passionate CSE student who loves to build, break, and rebuild things with code.  
 🎓 First-year CSE @ SSNCE  
 🔥 Dreaming big and coding hard to land at top tech companies  
-🧠 Currently focused on DSA, Java backend, and React Native app development  
+🧠 Currently focused on DSA, OOPS with JAVA, and React Native app development  
 💡 I love solving problems and crafting real-world apps
 
 ---
@@ -68,4 +68,18 @@ Hi there! I'm **Shivaprakash**, a passionate CSE student who loves to build, bre
 > 💬 “If you’re chasing greatness, don’t pause for applause.”  
 > – Shivaprakash 🔥
 
+<pre style="font-size:12px; text-align:center;">
+
+              888                               .d8888b.  
+              888                              d88P  Y88b 
+              888                                   .d88P 
+888  888  888 88888b.  888  888                   .d88P"  
+888  888  888 888 "88b 888  888                   888"    
+888  888  888 888  888 888  888                   888     
+Y88b 888 d88P 888  888 Y88b 888 d8b d8b d8b d8b           
+ "Y8888888P"  888  888  "Y88888 Y8P Y8P Y8P Y8P   888     
+                            888                           
+                       Y8b d88P                           
+                        "Y88P"
+</pre>
 <!-- End of README -->
