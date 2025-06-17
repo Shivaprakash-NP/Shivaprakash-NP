@@ -12,7 +12,7 @@
 <!-- Intro -->
 # 💫 About Me:
 Hi there! I'm **Shivaprakash**, a passionate CSE student who loves to build, break, and rebuild things with code.  
-🎓 First-year CSE @ SSNCE  
+🎓 Second-year CSE @ SSNCE  
 🔥 Dreaming big and coding hard to land at top tech companies  
 🧠 Currently focused on DSA, OOPS with JAVA, and React Native app development  
 💡 I love solving problems and crafting real-world apps
@@ -67,7 +67,7 @@ Hi there! I'm **Shivaprakash**, a passionate CSE student who loves to build, bre
 
 > 💬 “If you’re chasing greatness, don’t pause for applause.”  
 > – Shivaprakash 🔥
-
+# Alwasy chase..
 <pre style="font-size:12px; text-align:center;">
 
               888                               .d8888b.  
