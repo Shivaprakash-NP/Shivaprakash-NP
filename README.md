@@ -64,22 +64,4 @@ Hi there! I'm **Shivaprakash**, a passionate CSE student who loves to build, bre
 [![](https://visitcount.itsvg.in/api?id=Shivaprakash-NP&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ---
-
-> 💬 “If you’re chasing greatness, don’t pause for applause.”  
-> – Shivaprakash 🔥
-# Alwasy chase..
-<pre style="font-size:12px; text-align:center;">
-
-              888                               .d8888b.  
-              888                              d88P  Y88b 
-              888                                   .d88P 
-888  888  888 88888b.  888  888                   .d88P"  
-888  888  888 888 "88b 888  888                   888"    
-888  888  888 888  888 888  888                   888     
-Y88b 888 d88P 888  888 Y88b 888 d8b d8b d8b d8b           
- "Y8888888P"  888  888  "Y88888 Y8P Y8P Y8P Y8P   888     
-                            888                           
-                       Y8b d88P                           
-                        "Y88P"
-</pre>
 <!-- End of README -->
