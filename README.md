@@ -1,6 +1,6 @@
 <div align="center">
 <pre style="font-size:12px; text-align:center;">
-███████╗██╗  ██╗██╗██╗   ██╗ █████╗        ███╗   ██╗██████╗ 
+███████╗██╗  ██╗██╗██╗   ██╗ █████╗       ███╗   ██╗██████╗ 
 ██╔════╝██║  ██║██║██║   ██║██╔══██╗      ████╗  ██║██╔══██╗
 ███████╗███████║██║██║   ██║███████║      ██╔██╗ ██║██████╔╝
 ╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║      ██║╚██╗██║██╔═══╝ 
@@ -27,7 +27,7 @@
   <tr>
     <td valign="top" width="50%">
       
-      ### 🤝 Connect with Me
+      <h3>🤝 Connect with Me</h3>
       <p>
         <a href="https://shivaprakash-np.github.io/Portfolio/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
@@ -42,7 +42,7 @@
 
       <br />
       
-      ### 💻 Tech Stack
+      <h3>💻 Tech Stack</h3>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -59,13 +59,16 @@
     </td>
     <td valign="top" width="50%">
       
-      ### 📊 GitHub Stats
-      ![](https://github-readme-stats.vercel.app/api?username=Shivaprakash-NP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaprakash-NP&theme=tokyonight&hide_border=false&layout=compact)
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shivaprakash-NP&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivaprakash-NP&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
       
     </td>
   </tr>
 </table>
+
+---
 
 ### 🏆 Competitive Programming Stats
 
