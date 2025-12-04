@@ -21,7 +21,7 @@
 
   <table style="border: none;">
     <tr>
-      <td align="center" style="border: none;">
+      <td colspan="2" align="center" style="border: none;">
         <a href="https://leetcode.com/u/shiva___np/">
           <img src="https://leetcard.jacoblin.cool/shiva___np?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" height="180" />
         </a>
