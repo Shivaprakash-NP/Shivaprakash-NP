@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Shivaprakash+NP;2nd+Year+CSE+Student+%40+SSN;Competitive+Programmer;Java+%26+Spring+Boot+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Shivaprakash+NP;2nd+Year+CSE+%40+SSN;Problem+Solver+%26+Java+Lover;Exploring+Spring+Boot" alt="Typing SVG" />
 
-  <p align="center" style="font-size: 1.1rem; max-width: 600px; color: #a9b1d6;">
-    Converting coffee into code and logic into solutions.
+  <p align="center" style="font-size: 1.1rem; max-width: 650px; color: #a9b1d6; line-height: 1.6;">
+    I am a <b>Second-year CSE student at SSN College of Engineering</b>, driven by the logic of <b>Data Structures & Algorithms</b> and the thrill of <b>Competitive Programming</b>.
     <br/>
-    Focused on <b>DSA</b>, <b>Competitive Programming</b>, and building scalable backends with <b>Spring Boot</b>.
+    Currently deep-diving into <b>Spring Boot</b>, I am a Java enthusiast building scalable backends and solving problems one logic at a time.
   </p>
 
   <br/>
@@ -22,29 +22,33 @@
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Shivaprakash-NP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" alt="GitHub Stats" height="190" />
+        <a href="https://github.com/Shivaprakash-NP">
+          <img src="https://github-readme-stats.vercel.app/api?username=Shivaprakash-NP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+        </a>
       </td>
       <td align="center" style="border: none;">
         <a href="https://leetcode.com/u/shiva___np/">
-          <img src="https://leetcard.jacoblin.cool/shiva___np?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" height="190" />
+          <img src="https://leetcard.jacoblin.cool/shiva___np?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" height="180" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" style="border: none;">
          <a href="https://codeforces.com/profile/shiva___np">
-           <img src="https://cf.leed.at?id=shiva___np&theme=tokyonight&hide_border=true" alt="Codeforces Rating" height="180" />
+           <img src="https://cf.leed.at?id=shiva___np&theme=tokyonight&hide_border=true" alt="Codeforces Rating" height="170" />
          </a>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaprakash-NP&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="GitHub Streak" height="180" />
+        <a href="https://github.com/Shivaprakash-NP">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivaprakash-NP&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="170" />
+        </a>
       </td>
     </tr>
   </table>
 
   <p align="center">
     <a href="https://www.codechef.com/users/shiva_np">
-      <img src="https://img.shields.io/badge/CodeChef-shiva__np-5D4037?style=social&logo=codechef" alt="CodeChef"/>
+      <img src="https://img.shields.io/badge/CodeChef-shiva__np-5D4037?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
     </a>
   </p>
 
