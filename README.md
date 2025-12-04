@@ -22,11 +22,6 @@
   <table style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://github.com/Shivaprakash-NP">
-          <img src="https://github-readme-stats.vercel.app/api?username=Shivaprakash-NP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-        </a>
-      </td>
-      <td align="center" style="border: none;">
         <a href="https://leetcode.com/u/shiva___np/">
           <img src="https://leetcard.jacoblin.cool/shiva___np?theme=tokyonight&font=Inter&ext=heatmap" alt="LeetCode Stats" height="180" />
         </a>
